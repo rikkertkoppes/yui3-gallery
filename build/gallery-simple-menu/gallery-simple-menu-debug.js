@@ -100,4 +100,4 @@ SimpleMenu.NS = 'simplemenu';
 Y.namespace('Plugin').SimpleMenu = SimpleMenu;
 
 
-}, 'gallery-2010.03.11-21' ,{requires:['node-focusmanager']});
+}, '@VERSION@' ,{requires:['node-focusmanager']});
